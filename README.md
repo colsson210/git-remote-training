@@ -3,3 +3,4 @@
 ## git commands
 - git add
 - git fetch
+- git branch
